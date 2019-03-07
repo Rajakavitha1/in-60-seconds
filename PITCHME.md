@@ -9,7 +9,7 @@
 ---
 @title[Documentation of an Open Source Product]
 
-@snap[west span-50]
+@snap[west span-70]
 ## Documentation of an Open Source Product
 @snapend
 
