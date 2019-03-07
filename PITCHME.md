@@ -1,6 +1,6 @@
-@snap[north]
+
 # @size[1.0em]@color[blue](This is my first pitch!!!)
-@snapend
+
 
 ---
 
