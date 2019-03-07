@@ -1,4 +1,4 @@
-# @color[blue]@size[3.0em](This is my first pitch!!!)
+# @color[blue]@size[1.0em](This is my first pitch!!!)
 
 ---
 
