@@ -4,7 +4,7 @@
 
 ---
 
-## Add Some Slide Candy
+## This is my slide deck
 
 ![](assets/img/presentation.png)
 +++?color=black
