@@ -6,6 +6,17 @@
   box-shadow:0 14px 20px 0 rgba(0,0,0,0.2),0 10px 24px 0 rgba(0,0,0,0.19) !important;
 }
 
+.headline h1 {
+  color: gold;
+  text-transform: uppercase;
+}
+
+.byline {
+  color: silver;
+  font-size: 0.9em;
+  letter-spacing: 2px;
+}
+
 .headline h2 {
   color: white;
   letter-spacing: 0.05em;
