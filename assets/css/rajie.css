@@ -1,0 +1,11 @@
+
+.headline h1 {
+  color: blue;
+  text-transform: uppercase;
+}
+
+.byline {
+  color: silver;
+  font-size: 0.9em;
+  letter-spacing: 2px;
+}
