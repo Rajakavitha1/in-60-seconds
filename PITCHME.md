@@ -1,5 +1,12 @@
 
 
+# This is my first pitch!!!
+
+---
+
+## Add Some Slide Candy
+
+![](assets/img/presentation.png)
 +++?color=black
 
 @snap[west span-45]
@@ -17,12 +24,6 @@
 @snap[south-east span-60]
 @box[bg-pink text-white](Step 3.#Cupidatat non proident sunt in culpa officia veniam quis.)
 @snapend
-
----
-
-## Add Some Slide Candy
-
-![](assets/img/presentation.png)
 
 ---
 @title[Documentation of an Open Source Product]
