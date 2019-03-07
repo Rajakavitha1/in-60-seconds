@@ -10,7 +10,7 @@
 @title[Documentation of an Open Source Product]
 
 @snap[north-west]
-@size[2.5em](Documentation of an Open Source Product)
+@size[2.0em](Documentation of an Open Source Product)
 @snapend
 
 @snap[east span-50]
