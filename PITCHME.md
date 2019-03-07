@@ -9,8 +9,8 @@
 ---
 @title[Documentation of an Open Source Product]
 
-@snap[east span-40]
-## @color[cyan](Documentation of an Open Source Product)
+@snap[north-west]
+@size[2.5em](Documentation of an Open Source Product)
 @snapend
 
 @snap[east span-50]
