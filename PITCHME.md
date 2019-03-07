@@ -1,5 +1,5 @@
 
-# @css[headline](This is my first pitch!!!)
+# (This is my first pitch!!!)
 
 
 ---
@@ -12,7 +12,7 @@
 @title[Documentation of an Open Source Product]
 
 @snap[north-west]
-@size[2.0em](Documentation of an Open Source Product)
+@css[headline h1](Documentation of an Open Source Product)
 @snapend
 
 @snap[east span-50]
