@@ -1,5 +1,5 @@
 
-#This is my first pitch!!!
+
 +++?color=black
 
 @snap[west span-45]
